@@ -1,0 +1,21 @@
+.btn {
+    border-radius: 10rem !important;
+    padding: 1.25rem 2.24rem !important;
+}
+
+.message {
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+
+.myicon {
+    font-size: 60px;
+    padding: 20px;
+}
+
+.contact{
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+
+.navbar{
+    background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%);
+}
